@@ -1,0 +1,4 @@
+# Ignorar pastas
+uploads/
+resultados_da_analise/
+.venv/
