@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Análise de Tempo Médio Processual - TJGO
 
 Este repositório apresenta uma análise independente do **tempo médio de tramitação dos processos baixados** no **Tribunal de Justiça do Estado de Goiás (TJGO)**, utilizando **Python e Pandas**.
