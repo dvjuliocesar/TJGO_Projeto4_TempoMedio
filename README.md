@@ -83,8 +83,3 @@ pip install pandas numpy pathlib
 
 - Pequenas variações foram estatisticamente irrelevantes, reforçando a credibilidade do sistema de dados judiciais.
 
-
-
-=======
->>>>>>> 28c1d6fc21bd8efbaee668ee60efffcddf3c6af0
-
