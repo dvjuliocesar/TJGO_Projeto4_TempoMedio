@@ -10,7 +10,7 @@ O principal objetivo é **validar os dados oficiais divulgados pelo Sistema de E
 
 - Calcular o tempo médio de tramitação processual com base em dados brutos.
 - Verificar se os números oficiais do TJGO são **replicáveis e confiáveis**.
- Aplicar um fluxo de análise baseado em **ETL (Extract, Transform, Load)** com foco em qualidade dos dados.
+- Aplicar um fluxo de análise baseado em **ETL (Extract, Transform, Load)** com foco em qualidade dos dados.
 
 ---
 
@@ -81,8 +81,6 @@ pip install pandas numpy pathlib
 - A análise confirmou a precisão dos dados divulgados pelo SET/TJGO, validando de forma independente as estatísticas oficiais.
 
 - Pequenas variações foram estatisticamente irrelevantes, reforçando a credibilidade do sistema de dados judiciais.
-
-
 
 
 
